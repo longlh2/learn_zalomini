@@ -1,0 +1,11 @@
+POST http://localhost:5000/api/viewedposts
+Content-Type: application/json
+
+{
+  "postId": "625fbab0802e34fc55a25341"
+}
+###
+GET http://localhost:5000/api/viewedposts
+Content-Type: application/json
+
+###

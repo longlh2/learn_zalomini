@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "Bán Lại",
+    "headerColor": "#1843EF",
+    "textColor": "white",
+    "statusBarColor": "#1843EF",
+    "leftButton": "both"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [
+    "/saved-posts",
+    "/home",
+    "/manage-post",
+    "/create",
+    "/messages",
+    "/account",
+    "/create-post",
+    "/choose-category",
+    "/choose-subcategory",
+    "/seller-info",
+    "/care-list",
+    "/post-detail",
+    "/posts-list"
+  ]
+}
